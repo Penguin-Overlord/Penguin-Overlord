@@ -2,8 +2,6 @@
 
 **Penguin-Overlord/Penguin-Overlord** is a ✨ writer ✨
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on writing books
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on selling books
